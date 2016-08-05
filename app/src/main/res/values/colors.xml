@@ -3,4 +3,17 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="dash_card_violet">#999DE9</color>
+    <color name="dash_card_red">#DF6872</color>
+    <color name="dash_card_yellow">#F0C769</color>
+    <color name="dash_card_pink">#DF84B9</color>
+    <color name="dash_card_green">#A1CA78</color>
+    <color name="dash_card_green_dark">#58BFA6</color>
+    <color name="dash_card_blue_dark">#6FA0DF</color>
+    <color name="dash_card_blue">#58B7DA</color>
+    <color name="dash_card_orange">#EB7E66</color>
+    <color name="dash_text_color">#FFF</color>
+
+
 </resources>
